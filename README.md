@@ -3,6 +3,7 @@ Implementation of the Naive Bayes Algorithm
 
 Folders in this repository
 \data\Sentiment140 - Train and test data. You can download the data files from their website (linked below)
+
 Source: http://help.sentiment140.com/for-students (A.Go, R.Bhayani, and L.Huang 2009)
 
 Files in this repository
